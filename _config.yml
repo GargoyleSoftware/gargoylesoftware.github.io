@@ -2,7 +2,7 @@
 title: Gargoyle Software
 email: jesse@jessesherlock.com
 description: > # this means to ignore newlines until "baseurl:"
-        TODO: description
+        Specializing in Clojure software craftsmanship
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://gargoylesoftware.github.io" # the base hostname & protocol for your site
 # twitter_username: 
