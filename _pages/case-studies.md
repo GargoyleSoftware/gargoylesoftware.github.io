@@ -5,20 +5,61 @@ permalink: /case-studies
 layout: page
 ---
 
-## Cannabis 
+# Cannabis
 
-* Now the leading XXX in the Cannabis industry
-* Moves $X million dollars worth of goods each day
-* Developed in only X weeks
-* Fully integrates 3 layers of the supply chain
+## WeedMaps - Undisclosed project
 
-## Real Estate
+Currently working on a highly strategic project for this top company in the cannabis industry.
 
-* Built XYZ features
-* Deployed alpha in 1 month
-* Final delivery in 3 months
-* Processed paperwork for home sales totalling $20M
+# Enterprise
 
-## CLJS Mobile App
+## 1-800-GOT-JUNK
 
-* ???
+First engagement: collaborated with stakeholders to design and develop a Truck Team Member iOS app in time for their annual franchisee summit.
+
+Second engagement: implemented the production-ready 1.0 version of the Truck Team Member app for use on Android in thousands of trucks around the world.
+
+## Deutsche Bank
+
+Developed a highly secure iPad app, "GlobalPrime," to enable prime brokerage clients to visualize the current state of their sub-funds. 
+
+## EnHatch
+
+EnHatch 
+iPad app for 3D med device sales & marketing.
+
+# Medical
+
+## Otsuka
+
+iPad apps for med device and pharmaceutical detailing.
+
+## Auspex Health 
+
+Clinical tools for medication review in retail pharmacy.
+
+## Bellesoma 
+
+Collaborating with an expert surgeon, we prototyped an iPad app to enable measurement of the breast for personalized surgical planning. 
+
+## SALT 
+
+With minimal guidance, we collaborated with science and engineering experts to design and develop the prototype of an app which measured dietary salt content using computer vision on Android.
+
+# Dating / Social / Consumer
+
+## Cheek'd
+
+Developed the Android and iPhone apps for this dating startup in time for their appearance on Shark Tank.
+
+## Sonar
+
+After cleaning up their codebase for launch at SxSW, we built several key features for this pioneering hyperlocal social network, including background location tracking and XMPP-based real-time chat.
+
+## Shelby.tv
+
+We helped this social video startup develop their 1.0 release in time for launching at CES.
+
+## Camra
+
+We built the 1.0 version of this easy-to-use consumer video app, including the world's first digital zoom in an iOS video app.
