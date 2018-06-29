@@ -5,6 +5,8 @@ permalink: /open-source
 layout: page
 ---
 
+<a href="#" class="image featured"><img src="images/python.png" alt="" /></a>
+
 # Open Source
 
 Software tools are constantly advancing.

@@ -5,6 +5,8 @@ permalink: /case-studies
 layout: page
 ---
 
+<a href="#" class="image featured"><img src="images/archives.jpg" alt="" /></a>
+
 ## Cannabis
 
 ### WeedMaps 
