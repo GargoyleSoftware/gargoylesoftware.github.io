@@ -10,3 +10,7 @@ github_username:  gargoylesoftware
 
 # Build settings
 markdown: kramdown
+
+include:
+  - .htaccess
+  - _pages
