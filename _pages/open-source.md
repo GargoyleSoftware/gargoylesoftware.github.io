@@ -20,4 +20,4 @@ We've put together our best practices, combining:
 
 ## [CleverRepoName]
 
-[GitHub Repo](github.com)
+[GitHub Repo](https://github.com/GargoyleSoftware)
