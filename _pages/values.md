@@ -4,14 +4,8 @@ tagline: What We Believe In
 permalink: /values
 layout: page
 ---
-
-# Manifesto
-
-We believe in the unlimited power of technology to unlock human potential.
-
-Since the dawn of man, a brave few have ventured into the unknown, seeking something beyond ordinary life. These sojourns often bear no obvious fruit, but, when fate smiles, yield breakthroughs that better the entire tribe.
-
-We formed NEWCORP in order to continue this tradition, standing for the advancement of civilization, one small step at a time.
+									
+<a href="#" class="image featured"><img src="images/craftsman.jpg" alt="" /></a>
 
 # Corporate Values
 
