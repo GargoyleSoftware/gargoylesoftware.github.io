@@ -13,6 +13,10 @@ layout: page
 
 Currently working on a highly strategic project for this top company in the cannabis industry.
 
+### BCBudExpress.ca
+
+Consulted on a web scraping project.
+
 ## Enterprise
 
 ### 1-800-GOT-JUNK

@@ -15,22 +15,37 @@
 * Customizing off-the-shelf software
 * Finding a good software vendor
 * Hiring in-house developers
+* Optimization
+* Decision Making
+* Vendor/contract management
 
 ## Isolate the three main problems
 
+* Decision Making
 * Payment
 * Compliance
-* Vendor/contract management
 
 ## Isolate the biggest problem
 
+* Decision-making
 
+Knowing which way to go?
+What criteria should you use to measure your outcomes?
+How do you actually measure and make sense of your results?
 
 # The Solution
 
 * Isolate the solution that solves the biggest problem.
+
+Data intelligence
+
 * Is your "solution statement" the mirror-image of the "problem statement?"
+
+We'll help you establish a decision-making framework, collect data about those decisions, 
+
 * Have you audited your communication to check that the solution doesn't pop-up first? (It comes AFTER the prbolem)
+
+
 
 # The Target Profile
 
@@ -55,6 +70,14 @@
 * List the biggest objection and the answer.
 
 # Testimonials
+
+TODO:
+
+* Steven Jung
+* Roger Chinchilla
+* Todd Fearn
+* Peter Verrillo
+* Brett Martin
 
 Step 1: Get the testimonials
 
@@ -105,17 +128,37 @@ Testimonial:
 # Your Uniqueness
 
 * Write down what you want to do in your business that's different from everyone else?
+
+Built-to-last
+Hyper-nerds
+Clojure
+Data science
+Front-end
+Experience in Cannabis
+Pioneer of iOS/Android boom
+Idealists
+Craftsmen
+Arch Linux
+Open Source
+Vancouver
+Quality of life
+
+
 * List all the factors that could make your business unique.
+
 * Use "Weighted Ranking" to decide
+
 * Now list only one factor that is going to be your point of uniqueness.
+
 * Flesh out the uniqueness to create more clarity.
+
 * Does your uniqueness solve a problem for a specific audience?
 * Test your uniquenes to see that it is really unique.
 * List how you are going to propogate your uniuqeness
 
-Website:
-Brochure:
+Website: 
+Brochure: tasteful
 Promotional Material:
-Business Card:
+Business Card: classic design
 Other:
 
