@@ -15,7 +15,7 @@ Currently working on a highly strategic project for this top internet company in
 
 ### BCBudExpress.ca
 
-Consulted on a web scraping project.
+Helped this cannabis e-commerce company gather leads for marketing outreach by using computerized web scraping.
 
 ## Enterprise
 
@@ -23,7 +23,7 @@ Consulted on a web scraping project.
 
 First engagement: collaborated with stakeholders to design and develop a Truck Team Member iOS app in time for their annual franchisee summit.
 
-Second engagement: implemented the production-ready 1.0 version of the Truck Team Member app for use on Android in thousands of trucks around the world.
+Second engagement: implemented the production-ready 1.0 version of the Truck Team Member app for daily use on Android in thousands of trucks around the world.
 
 ### Deutsche Bank
 
