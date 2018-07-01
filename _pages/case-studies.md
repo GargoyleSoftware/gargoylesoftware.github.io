@@ -11,7 +11,7 @@ layout: page
 
 ### WeedMaps 
 
-Currently working on a highly strategic project for this top company in the cannabis industry.
+Currently working on a highly strategic project for this top internet company in the cannabis industry.
 
 ### BCBudExpress.ca
 
