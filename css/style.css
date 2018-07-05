@@ -1244,11 +1244,15 @@ body.index #main {
 }
 
 .image-container > img {
+  background-color: black;
   overflow: hidden;
   object-fit: cover;
   border-radius: 100%;
   width: 350px;
   height: 350px;
+}
+.image-container > img:hover {
+  opacity: 0.5
 }
 
 .description-container > h1 { margin: 0 }
