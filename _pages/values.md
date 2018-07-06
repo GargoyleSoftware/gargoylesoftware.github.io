@@ -7,72 +7,47 @@ layout: page
 									
 <a href="#" class="image featured"><img src="images/craftsman.jpg" alt="" /></a>
 
-## Corporate Values
+# Simplicity in execution. Quality in practice. Abundance in mindset.
 
-### Mutualism
 
-Human progress is a dialogue and we actively look for opportunities to participate in it.
+Simplicity is hard work.
+But, there's a huge payoff.
 
-Our open source contributions are an obvious way that we do so, but each project we undertake is also an exercise in mutualism. 
 
-By involving our clients as true peers, we not only increase effectiveness, but also honor our duty to make each relationship a respectful symbiosis.
+Our team lives the way we work. We believe values driven decisions will make sure we do right by you and right by us. This is what we’re all about.
 
-### Question Everything
+### We care, a lot.
 
-Intellectual inertia can sometimes prevent us from seeing a more direct path.
+No one can ever really be great at something they don’t care about.  Think about the last time you did something you didn’t really care about? How about the last time you did something you did care about? And with people you cared about? That’s an explosive combination. That’s where the magic happens. That is what we cultivate.
 
-Through questioning, we can uncover the true constraints. Some boulders may be immobile, but others will prove malleable or illusory, opening up new possibilities.
+### We love the heck out of Clojure
 
-### Adapt to Your Context 
+You say drank the kool aid like it’s a bad thing. :wink:
+Clojure has reignited our love of programming. It has given us the freedom to create things we are incredibly proud of and have more fun than we’ve ever had before creating them. We are better engineers and thinkers than we ever have been before.
 
-Solutions are very domain-specific. Re-using the same solution out of context rarely leads to optimal results.
+Excuse us, while we nerd out a little, but the macro system gives you unprecedented power and flexibility. And oh man, that interactive REPL? It just speeds everything up. We can’t stop gushing about it
 
-"When in Rome" makes all the difference in the world. 
+So, we only take Clojure projects then? No.
 
-Each project is an opportunity to begin anew, checking old assumptions in the face of new constraints.
+We take projects we believe in for people and companies and industries we believe in.
 
-### Honor Craftsmanship 
+That being said, Clojure is our secret weapon.
 
-We live in an era of quick and cheap. Mass manufacture and Moore's Law have taught us that nothing is constant but change itself.
+The tech industry is fast growing and it’s getting more and more crowded and more and more competitive as the days go on. Clojure gives you superior software that is hard to replicate with some of the smartest minds creating it. 
+Let us create the perfect fit for you.
 
-Why bother expending the extra effort to get it "right" when you can use an off-the-shelf solution that is "good enough?"
+### "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.” - Antoine de Saint-Exupery
 
-Because "slow is smooth, and smooth is fast." By building from first principles, we are better prepared to adapt to the future, rather than be held to the "fast" way.
+## What are we working on right now?
 
-### No Attachment 
+Cannabis. If you’re struggling with scaling your cannabis business, we can help.
 
-Throwing away a perfectly good piece of work is painful, but stubbornly clinging to the past is even more harmful.
+### How?
 
-### Less
+The explosive growth of the cannabis industry is a mixed blessing. With governments creating new regulations every time you turn on the news, maneuvering between all the different levels of government in those regulations, can be a minefield.
 
-It's all too seductive to think that More code, More features, and More hours will solve the problem.
+Not to mention how to measure growth in such a fast growing industry and what criteria to use in order to measure outcomes and picking the right outcomes to measure in the first place. Quantifying that growth isn’t an easy task.
 
-But in pursuing More, maintenance suffers and agility decreases.
+### We want to make it simple for you.
 
-What if the problem could be solved with less? 
-
-After all, constraints breed creativity.
-
-### Holism
-
-We could each be working jobs in Silicon Valley, but, to us, there's more to life than the office.
-
-Work is much the same. It's easy to let one dimension disproportionally dominate the discussion.
-
-Life must be lived as a whole, and so too must problems be solved as a whole. 
-
-### Fundamental Value
-
-It's easy to get absorbed in the latest trend, whether in the financial markets or in problem-solving tools.
-
-To look at Wall Street, while financial value is wildly volatile, fundamental value is much more stable. We aim to pierce through the cloud of "financial" speculation to glimpse the fundamental value beneath.
-
-### Destinationless Journey
-
-In the West, we love to think of life as a linear journey from A to B.
-
-However, the eventual arrival always pales in comparison with its imagined glory.
-
-Thus, we regain our enthusiasm by embarking on yet another adventure.
-
-Sisyphean? Or joyful? Simply a matter of perspective.
+"Complexity is just simplicity refusing to be anything else.” -Nayyirah Waheed

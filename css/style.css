@@ -912,7 +912,7 @@ input[type='reset'].small,
   background-attachment: scroll, scroll, scroll, fixed;
   background-color: #645862;
   background-image: url('images/light-bl.svg'), url('images/light-br.svg'),
-    url('images/overlay.png'), url('../images/banner.jpg');
+    url('images/overlay.png'), url('../images/jumbotron-bg.png');
   background-position: bottom left, bottom right, top left, top center;
   background-repeat: no-repeat, no-repeat, repeat, no-repeat;
   background-size: 25em, 25em, auto, cover;
@@ -1014,7 +1014,7 @@ body.index #main {
   background-attachment: scroll, scroll, scroll, fixed;
   background-color: #645862;
   background-image: url('images/light-tl.svg'), url('images/light-tr.svg'),
-    url('images/overlay.png'), url('../images/banner.jpg');
+    url('images/overlay.png'), url('../images/jumbotron-bg.png');
   background-position: top left, top right, top left, bottom center;
   background-repeat: no-repeat, no-repeat, repeat, no-repeat;
   background-size: 25em, 25em, auto, cover;
@@ -1212,8 +1212,30 @@ body.index #main {
   display: inline-block;
   width: 5em;
 }
+/* JUMBOTRON */
 
+div.inner > img {
+  width: 200px;
+  height: 200px;
+}
 
+/* LANDING PAGE */
+article#notable-clients > section.container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+section.container > a {
+  margin: 1.5rem;
+}
+
+section.container > a > img {
+  /* background-color: gray; */
+  height: 100px;
+  object-fit: cover;
+  overflow: hidden;
+}
 
 /* TEAM PAGE */
 
