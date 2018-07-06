@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="no-sidebar">
+
+    {% include header.html %}
+    <article id="main">
+      <header class="special container">
+        <span class="icon fa-mobile"></span>
+        <h2>
+          {{page.title}}
+        </h2>
+        <p>
+          {{page.tagline}}
+        </p>
+      </header>
+
+      <section class="wrapper style4 container">
+        <div class="content">
+            {{ content }}
+        </div>
+		</article>
+    {% include footer.html %}
+
+  </body>
+
+</html>
