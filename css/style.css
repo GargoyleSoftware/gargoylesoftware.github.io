@@ -1266,7 +1266,7 @@ section.container > a > img {
 }
 
 .image-container > img {
-  background-color: black;
+  /* background-color: black; */
   overflow: hidden;
   object-fit: cover;
   border-radius: 100%;
